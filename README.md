@@ -44,6 +44,6 @@ Application Dynamics
 Application trends reveal fluctuations over time, with interactive filters enabling deeper analysis by year, ownership type, and loan status
 
 
-## conclusion
+## Conclusion
 Overall, this dashboard serves as a strategic tool for recruiters, lenders, and business leaders to evaluate loan portfolio performance, identify borrower risk segments, and track lending trends.
 By presenting clear KPIs and interactive visuals, it enables informed decision‑making, supports risk management, and highlights opportunities for sustainable growth in the lending market.
